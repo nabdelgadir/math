@@ -13,3 +13,7 @@ function multiplication(x: number, y: number) {
 function division(x: number, y: number) {
     return x / y;
 }
+
+function remainder(x: number, y: number) {
+    return x % y;
+}
