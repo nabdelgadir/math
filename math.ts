@@ -17,3 +17,7 @@ function division(x: number, y: number) {
 function remainder(x: number, y: number) {
     return x % y;
 }
+
+function test(x: number, y: number) {
+    return addition(x, y);
+}
